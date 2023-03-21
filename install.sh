@@ -1,5 +1,6 @@
 #!/bin/sh
 
+#bash <(curl -s "https://raw.githubusercontent.com/nguyendkn/3proxy/main/install.sh")
 array=(1 2 3 4 5 6 7 8 9 0 a b c d e f)
 # Function to generate a random 64-bit IPv6 address using an existing IPv6 prefix
 gen64() {
